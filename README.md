@@ -1,2 +1,2 @@
-# Uzivatelsky-software---tabulkov-procesory
+# Uzivatelsky-software---tabulkove-procesory
 Semestrální práce
